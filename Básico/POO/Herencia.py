@@ -12,7 +12,7 @@ class Animal:
 		self.energia +=1
 		print(self.energia)
 	def hablar(self):
-		print("Grrrrrrr!")
+		print(" Bebecita Grrrrrrr!")
 
 #Un perro es un animal y es terrestre
 
